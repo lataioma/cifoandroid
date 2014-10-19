@@ -1,6 +1,6 @@
 <?php 
-mysql_connect("127.8.0.130:3306","adminVS4kUb6","3Qi45lW3VCSq"); 
-mysql_select_db("cifoandroid"); 
+mysql_connect("127.3.124.2:3306","admin7IC7C4T","VQ_eekR13Xsr"); 
+mysql_select_db("phpcifoandroid"); 
 
 $pregunta = "select * from cifoandroid";
 
