@@ -1,0 +1,3 @@
+C:\Users\MANEL\Desktop\DESARROLLO WEB\php
+http://phpcifoandroid-lataioma.rhcloud.com/
+C:\Users\MANEL\.openshift
